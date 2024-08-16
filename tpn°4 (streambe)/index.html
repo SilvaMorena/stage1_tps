@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/png" href="./img/icon.png">
+</head>
+<body>
+<div>
+    <div class="forms" >
+        <form  netlify>
+            <label>Nombre:
+                <input type="text" name="nombre" required>
+            </label>
+
+            <label>Email:
+                <input type="email" name="email"  required >
+            </label>
+
+            <label>contraseña:
+                <input type="password" name="password" required>
+            </label>
+
+            <label for="fecha">Fecha de nacimiento</label>
+            <input type="date" name="fecha" id="fecha" required>
+
+        <label for="">¿Que equipo de futbol preferis?
+            <select name="opcio" required>
+                <option disabled>elegir</option>
+                <option value="o">boca</option>
+                <option value="j">riber</option>
+            </select>
+        </label>
+
+        <label> ¿Por que elegiste esa opcion?
+            <textarea name="hist" required></textarea>
+        </label>
+        <input type="submit" value="Enviar">
+        </form>
+    </div>
+</div>
+
+</body>
+</html>
