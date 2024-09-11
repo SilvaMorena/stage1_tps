@@ -1,0 +1,170 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    background-color: #686464;
+}
+
+header {
+    background: #333;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+section {
+    padding: 2rem;
+    margin: 1rem 0;
+}
+
+.proyecto {
+    background: #f4f4f4;
+    padding: 1rem;
+    margin: 1rem 0;
+    border-radius: 5px;
+}
+
+footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+/* para centrar los titulos */
+.centrar {
+
+    text-align: center;
+
+}
+
+/* poner un texto al lado de la imagen*/
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start; /* Alinea al inicio del contenedor */
+    margin: 20px;
+}
+.container img {
+    max-width: 350px; 
+    height: auto;
+    margin-right: 5px; /* Espacio entre la imagen y el texto */
+    margin-left: 100px;
+    border-radius: 8px; 
+}
+.container .text {
+    max-width: 600px; 
+}
+.container h1 {
+    margin-top: 0;
+}
+
+.imagen {
+
+    width: 350px;
+}
+
+
+.card{
+    margin-bottom: 5%;
+}
+
+
+
+/* formulario*/
+
+
+body{
+    background-image: url('./img/fondo.png');
+    background-size: cover;
+    background-position: center;
+}
+
+
+.forms {
+    background-color: rgba(15, 8, 116, 0.301) ;
+    width: 500px;
+    border-radius: 10%;
+    text-align: center;
+    white-space: pre-line;
+    margin: 0 auto; 
+}
+
+label{
+    font-size: 1rem;
+    display: block;
+   
+}
+
+input, select { 
+    width: 40%;
+    height: 3rem;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 1.30rem;
+    background-color: rgb(95, 100, 102);
+}
+
+input:focus {
+    box-shadow: rgba(95, 100, 102);
+}
+
+input[type="submit"]{
+    background-color: rgb(95, 100, 102);
+    font-size: 1.50rem;
+}
+
+textarea{
+    width: 80%;
+    height: 10rem;
+    border-radius: 20px;
+    font-size: 1rem;
+    resize: none;
+    background-color: rgb(95, 100, 102);
+}
+
+input{
+    background-color: rgb(95, 100, 102);
+}
+
+/*footer */
+footer {
+    background-color:  #333;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+    margin-top: auto; 
+}
+
+.instagram{
+
+    width: 20px;
+    height: 20px;
+}
+
+.twitter{
+
+    width: 20px;
+    height: 20px;
+}
+
