@@ -7,3 +7,7 @@ Tpn2: En esta segunda entrega, la consigna era crear una pagina con todo lo adqu
 Tpn3:
 
 Tpn4:
+
+Tpn5: En este trabajo teníamos como consigna hacer portfolio.
+
+tpn6: 
