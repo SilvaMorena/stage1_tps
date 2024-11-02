@@ -11,3 +11,5 @@ Tpn4: En esta entrega teniamos como consigna, crear un una página que contenga 
 Tpn5: En este trabajo teníamos como consigna hacer un portfolio. Para llevar a cabo este trabajo, tuve que crear un HTML, CSS, JS y utilizar una biblioteca virtual (Bootstrap).
 
 tpn6: En este trabajo teniamos como consigna crear una página que utilice un Script, aplicando los conocimientos adquiridos hasta el moento, creando un HTML con CSS y JS. 
+
+tpn7: En este último trabajo teníamos que aplicar todos los conocimientos dados en el año y crear un página.
